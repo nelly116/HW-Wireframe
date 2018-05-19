@@ -1,0 +1,13 @@
+header {
+width: 1000px;
+height: 70px;
+background-color: lightgray;
+position: relative;
+left: 250px;
+text-align: center;
+ 
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
